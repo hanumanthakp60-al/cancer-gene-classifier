@@ -1,0 +1,9 @@
+data/
+*.parquet
+*.pkl
+*.pth
+*.zip
+*.bam
+*.gz
+gdc-client
+gdc-client.exe
